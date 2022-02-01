@@ -1,0 +1,16 @@
+Index: 1.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/1.txt b/1.txt
+--- a/1.txt	(revision c9c60a7417235111fc6b18c570351f05d21a8ce4)
++++ b/1.txt	(revision 3f067cab16d7dc2abbde7458ab2cac5356a7a5c1)
+@@ -1,5 +1,5 @@
+-1
+-1
++10
++10
+ 1
+ 1
+ 1
